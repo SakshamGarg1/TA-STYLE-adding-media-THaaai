@@ -7,3 +7,5 @@
 - Using CSS resets is necessary.
 
 - Use semantic tags and keep the nesting and indentation proper.
+
+fc
